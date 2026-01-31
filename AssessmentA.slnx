@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiGateway/ApiGateway.csproj" Id="0de1ed0e-2531-4bd8-8274-67efa09eef3a" />
+  <Project Path="FulfilmentService/FulfilmentService.csproj" Id="6ab223ec-eab0-47c0-a0d1-679c6b279d98" />
+  <Project Path="OrdersService/OrdersService.csproj" />
+  <Project Path="PaymentsService/PaymentsService.csproj" Id="3ab04a49-8789-40b5-9bc7-31a546b6fd14" />
+</Solution>
