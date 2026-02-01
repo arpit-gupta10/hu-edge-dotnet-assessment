@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="ApiGateway/ApiGateway.csproj" Id="dc260b6f-3979-45d4-a779-277cf4b807b5" />
+  <Project Path="Fulfilment_API/Fulfilment_API.csproj" Id="a23b7a83-0fc9-4c94-8661-72cc8baaa699" />
+  <Project Path="Fulfilment_Core/Fulfilment_Core.csproj" Id="cb6f7d6c-906f-4db2-83db-0617cf4088e5" />
+  <Project Path="Fulfilment_Infrastructure/Fulfilment_Infrastructure.csproj" Id="f58588d4-1a72-453a-8409-39991257bb85" />
+  <Project Path="Orders_API/Orders_API.csproj" />
+  <Project Path="Orders_Core/Orders_Core.csproj" Id="55caf414-7c6a-4b59-92ec-9256bc5f61cb" />
+  <Project Path="Orders_Infrastructure/Orders_Infrastructure.csproj" Id="617ab2ff-a1bb-4752-80ef-c0c3ce8586fe" />
+  <Project Path="Payments_API/Payments_API.csproj" Id="9708c123-25b5-4cc1-9c40-ac964427e059" />
+  <Project Path="Payments_Core/Payments_Core.csproj" Id="33404b22-f71c-413e-983b-6dd780ab4adb" />
+  <Project Path="Payments_Infrastructure/Payments_Infrastructure.csproj" Id="94976b51-4a0b-4497-8652-395e5e5528bb" />
+</Solution>
